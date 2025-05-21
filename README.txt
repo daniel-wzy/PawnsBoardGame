@@ -1,4 +1,4 @@
-Hello TAs! Here is the key information needed:
+Here is the key information needed:
 To Use JAR File
     - run the following command "java -jar PawnBoardGame.jar
      deckConfigFiles\example1.txt deckConfigFiles\example1.txt human human" for human vs. human.

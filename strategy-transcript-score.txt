@@ -1,0 +1,10 @@
+getScores called
+getTurn called
+getHeight called
+getScores called
+getWidth called
+getCell called for (0, 0)
+isValid called for (0, 0) handIndex:0
+copy called
+makeMove called for (0, 0) handIndex:0
+getScores called
